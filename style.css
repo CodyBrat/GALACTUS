@@ -240,7 +240,7 @@ body {
 .jist-img{
     width: 200px;
     height: 250px;
-    background-color: aqua;
+    background-color: red;
     float: right;
     margin-right: 200px;
     display: inline;
